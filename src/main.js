@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 
-import './util/demo'
+import './util/myPromise-1'
 
 import App from './App.vue'
 import router from './router'
