@@ -71,6 +71,10 @@
         </button>
       </footer>
     </section>
+    {{ false }}
+    {{ null }}
+    {{  undefined }}
+    {{  0 }}
   </div>
 </template>
 
